@@ -1,0 +1,22 @@
+{
+	"name": "Shivalik Sharma",
+	"website": "shivaliksharma.com",
+	"linkedin": "https://www.linkedin.com/in/shiv-sharma24/",
+	"github": "shivaliksharma98",
+	"email": "shivaliksharma98@gmail.com",
+	"resume": "shivaliksharma.com",
+	"proficientTechnologies": [
+		"Javascript",
+		"React",
+		"Vue",
+		"Node",
+		"Express",
+		"Mongodb",
+		"PostgreSQL",
+		"Python",
+		"Django",
+		"Wordpress",
+		"Drupal"
+	],
+	"otherSkills": ["Unagi", "Five Finger Fillet", "Bridge"]
+}
